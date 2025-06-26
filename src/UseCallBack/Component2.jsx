@@ -11,11 +11,11 @@ const Component2 = () => {
 
     // i am create a any function
     // const useCallPrectice = () => {
-    // }
+    // }j
 
     //apply useCallBack
     const useCallPrectice = useCallback(() => {
-        },[])
+    }, [])
     return (
         <div>
             <h1>UseCallback Problem</h1>
